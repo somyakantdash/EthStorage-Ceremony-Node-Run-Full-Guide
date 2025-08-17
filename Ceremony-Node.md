@@ -111,6 +111,24 @@ phase2cli contribute -c ethstorage-v1-trusted-setup-ceremony
 
 ---
 
+---
+
+### If u r seeing this error or Stuck ur Node
+
+![6127616883743114531 (1)](https://github.com/user-attachments/assets/4d113367-c8bf-4e65-91be-27a5a7975d7b)
+![Picsart_25-08-17_14-57-28-991](https://github.com/user-attachments/assets/27e4ceae-7b1d-4e96-be3d-7ab00ce8a589)
+
+* Discord: https://discord.gg/BKnJY8WZ2t
+
+```
+GITHUB EMAIL: (email)
+GITHUB USERNAME: ( username
+```
+
+  - Join Duscord > Verify Urself 
+  - Go to #technical-discussion channel > Put ur Stuck or Queue Sscreenshot, GitHUb email and username in this format, also tag @molaokp on your message, so you can get Verified.
+
+
 ### If u r seeing this error then Put Below Command
 
 ![6127616883743114503 (1)](https://github.com/user-attachments/assets/2b90dabe-4678-46f2-81a0-93b37462e9f2)
