@@ -121,11 +121,11 @@ phase2cli contribute -c ethstorage-v1-trusted-setup-ceremony
 * Discord: https://discord.gg/BKnJY8WZ2t
 
 ```
-GITHUB EMAIL: (email)
-GITHUB USERNAME: ( username
+GITHUB EMAIL: email
+GITHUB USERNAME: username
 ```
 
-  - Join Duscord > Verify Urself 
+  - Join Discord > Verify Urself 
   - Go to #technical-discussion channel > Put ur Stuck or Queue Sscreenshot, GitHUb email and username in this format, also tag @molaokp on your message, so you can get Verified.
 
 
