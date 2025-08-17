@@ -98,7 +98,7 @@ phase2cli contribute -c ethstorage-v1-trusted-setup-ceremony
 
 ---
 
-## 🔶For Next Day Run This Command
+## 🔶For Next Day Run This Command (Only for Local PC)
 
 #1 Open WSL then Put this Command 
 ```
