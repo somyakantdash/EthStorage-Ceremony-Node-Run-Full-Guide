@@ -13,7 +13,7 @@
  * Follow ≥ 5 accounts & have ≥ 1 follower
 
 -------------
-## If u Runa Node in VPS One-Click Deployment in VPS 
+## If u Run a Node in VPS
 * Xorek Cloud [HERE](https://tinyurl.com/5b6cn7zs)
    - Buy ur VPS according to Node System Requremnts > Then Follow Below Code Step by Step
 * Buy VPS & Run Node:- https://www.youtube.com/channel/UCgyz28ZN5EKLVXGI4XaPZKA
