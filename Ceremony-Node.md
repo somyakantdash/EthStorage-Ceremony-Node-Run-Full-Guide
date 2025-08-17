@@ -111,7 +111,7 @@ phase2cli contribute -c ethstorage-v1-trusted-setup-ceremony
 
 ---
 
-### If Your Showing These anyone of these Error then Put Below Command
+### If u r seeing this error then Put Below Command
 
 ![6127616883743114503 (1)](https://github.com/user-attachments/assets/2b90dabe-4678-46f2-81a0-93b37462e9f2)
 
