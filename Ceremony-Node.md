@@ -131,7 +131,7 @@ GITHUB USERNAME: ( username
 
 ### If u r seeing this error then Put Below Command
 
-![6127616883743114503 (1)](https://github.com/user-attachments/assets/2b90dabe-4678-46f2-81a0-93b37462e9f2)
+![6127616883743114503 (1)](https://github.com/user-attachments/assets/7cb501c7-a892-40b9-ae45-282f51b1c662)
 
 ```
 npm uninstall -g @p0tion/phase2cli
